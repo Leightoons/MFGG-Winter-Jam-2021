@@ -1,5 +1,8 @@
 {
-  "spriteId": null,
+  "spriteId": {
+    "name": "ei_Init",
+    "path": "sprites/ei_Init/ei_Init.yy",
+  },
   "solid": false,
   "visible": true,
   "spriteMaskId": null,
@@ -26,8 +29,8 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Managers",
-    "path": "folders/Objects/Managers.yy",
+    "name": "Global Managers",
+    "path": "folders/Objects/Global Managers.yy",
   },
   "resourceVersion": "1.0",
   "name": "obj_INIT",

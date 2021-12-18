@@ -1,7 +1,7 @@
 {
   "textureGroupId": {
-    "name": "Default",
-    "path": "texturegroups/Default",
+    "name": "EditorOnly",
+    "path": "texturegroups/EditorOnly",
   },
   "sequence": {
     "spriteId": {"name":"ei_Audio","path":"sprites/ei_Audio/ei_Audio.yy",},

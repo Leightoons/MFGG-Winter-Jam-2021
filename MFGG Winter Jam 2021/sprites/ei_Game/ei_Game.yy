@@ -1,7 +1,7 @@
 {
   "textureGroupId": {
-    "name": "Default",
-    "path": "texturegroups/Default",
+    "name": "EditorOnly",
+    "path": "texturegroups/EditorOnly",
   },
   "sequence": {
     "spriteId": {"name":"ei_Game","path":"sprites/ei_Game/ei_Game.yy",},

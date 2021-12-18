@@ -1,5 +1,8 @@
 {
-  "spriteId": null,
+  "spriteId": {
+    "name": "ei_Parent",
+    "path": "sprites/ei_Parent/ei_Parent.yy",
+  },
   "solid": false,
   "visible": true,
   "spriteMaskId": null,
@@ -23,8 +26,8 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Managers",
-    "path": "folders/Objects/Managers.yy",
+    "name": "Global Managers",
+    "path": "folders/Objects/Global Managers.yy",
   },
   "resourceVersion": "1.0",
   "name": "par_Manager",

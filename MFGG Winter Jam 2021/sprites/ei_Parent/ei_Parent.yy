@@ -4,7 +4,7 @@
     "path": "texturegroups/EditorOnly",
   },
   "sequence": {
-    "spriteId": {"name":"ei_Display","path":"sprites/ei_Display/ei_Display.yy",},
+    "spriteId": {"name":"ei_Parent","path":"sprites/ei_Parent/ei_Parent.yy",},
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 30.0,
@@ -16,7 +16,7 @@
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
       {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
-            {"id":"e59028f4-600a-45af-af09-61a2008989d2","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"a1108f74-73ce-47fe-a68e-9390b39886f2","path":"sprites/ei_Display/ei_Display.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"5e344490-1a12-4ed5-bab8-aec30b8feda0","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"58f1b9e7-c596-465c-84c0-8e33c0a918b1","path":"sprites/ei_Parent/ei_Parent.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
           ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack","modifiers":[],},
     ],
     "visibleRange": null,
@@ -33,9 +33,9 @@
     "yorigin": 0,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"ei_Display","path":"sprites/ei_Display/ei_Display.yy",},
+    "parent": {"name":"ei_Parent","path":"sprites/ei_Parent/ei_Parent.yy",},
     "resourceVersion": "1.3",
-    "name": "ei_Display",
+    "name": "ei_Parent",
     "tags": [],
     "resourceType": "GMSequence",
   },
@@ -48,24 +48,24 @@
   "collisionTolerance": 0,
   "swfPrecision": 2.525,
   "bbox_left": 0,
-  "bbox_right": 103,
+  "bbox_right": 120,
   "bbox_top": 0,
-  "bbox_bottom": 99,
+  "bbox_bottom": 121,
   "HTile": false,
   "VTile": false,
   "For3D": false,
-  "width": 104,
-  "height": 100,
+  "width": 121,
+  "height": 122,
   "swatchColours": null,
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"a1108f74-73ce-47fe-a68e-9390b39886f2","path":"sprites/ei_Display/ei_Display.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"a1108f74-73ce-47fe-a68e-9390b39886f2","path":"sprites/ei_Display/ei_Display.yy",},"LayerId":{"name":"a6789a0c-e72d-4398-a4a1-d4f2caa839ec","path":"sprites/ei_Display/ei_Display.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"ei_Display","path":"sprites/ei_Display/ei_Display.yy",},"resourceVersion":"1.0","name":"a1108f74-73ce-47fe-a68e-9390b39886f2","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"58f1b9e7-c596-465c-84c0-8e33c0a918b1","path":"sprites/ei_Parent/ei_Parent.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"58f1b9e7-c596-465c-84c0-8e33c0a918b1","path":"sprites/ei_Parent/ei_Parent.yy",},"LayerId":{"name":"737aea12-e515-4fff-bae6-4f901c179350","path":"sprites/ei_Parent/ei_Parent.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"ei_Parent","path":"sprites/ei_Parent/ei_Parent.yy",},"resourceVersion":"1.0","name":"58f1b9e7-c596-465c-84c0-8e33c0a918b1","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"a6789a0c-e72d-4398-a4a1-d4f2caa839ec","tags":[],"resourceType":"GMImageLayer",},
+    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"737aea12-e515-4fff-bae6-4f901c179350","tags":[],"resourceType":"GMImageLayer",},
   ],
   "nineSlice": null,
   "parent": {
@@ -73,7 +73,7 @@
     "path": "folders/Editor Icons.yy",
   },
   "resourceVersion": "1.0",
-  "name": "ei_Display",
+  "name": "ei_Parent",
   "tags": [],
   "resourceType": "GMSprite",
 }
