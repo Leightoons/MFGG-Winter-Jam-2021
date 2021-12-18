@@ -26,8 +26,8 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Global Managers",
-    "path": "folders/Objects/Global Managers.yy",
+    "name": "Managers",
+    "path": "folders/Objects/Managers.yy",
   },
   "resourceVersion": "1.0",
   "name": "par_Manager",

@@ -7,7 +7,10 @@
   "visible": true,
   "spriteMaskId": null,
   "persistent": true,
-  "parentObjectId": null,
+  "parentObjectId": {
+    "name": "par_Manager",
+    "path": "objects/par_Manager/par_Manager.yy",
+  },
   "physicsObject": false,
   "physicsSensor": false,
   "physicsShape": 1,
@@ -31,7 +34,7 @@
   "overriddenProperties": [],
   "parent": {
     "name": "Global Managers",
-    "path": "folders/Objects/Global Managers.yy",
+    "path": "folders/Objects/Managers/Global Managers.yy",
   },
   "resourceVersion": "1.0",
   "name": "obj_DebugBinds",

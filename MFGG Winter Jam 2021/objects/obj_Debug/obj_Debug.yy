@@ -30,7 +30,7 @@
   "overriddenProperties": [],
   "parent": {
     "name": "Global Managers",
-    "path": "folders/Objects/Global Managers.yy",
+    "path": "folders/Objects/Managers/Global Managers.yy",
   },
   "resourceVersion": "1.0",
   "name": "obj_Debug",
