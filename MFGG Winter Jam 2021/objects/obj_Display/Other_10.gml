@@ -7,8 +7,10 @@ else {
 	var res = resolution, winSc = windowScale;
 	window_set_size(res.x * winSc, res.y * winSc);
 	
-	// insert bordered/borderless code here
-	//
+	if (windowMode == WinMode.windowed)
+		_window_set_showborder(window_handle(),true);
+	if (windowMode == WinMode.borderless)
+		_window_set_showborder(window_handle(),false);
 	
 	CenterWindow();
 }

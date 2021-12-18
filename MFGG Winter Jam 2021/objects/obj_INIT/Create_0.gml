@@ -18,5 +18,10 @@ m_Input = instance_create_layer(0,0,layer, obj_Input);
 
 m_Audio = instance_create_layer(0,0,layer, obj_Audio);
 
+// Debug-only manager objects
+if (os_get_config() == "DEBUG"){
+	instance_create_layer(0,0,layer, obj_DebugBinds);
+}
+
 // Continue to next room
 room_goto_next();
