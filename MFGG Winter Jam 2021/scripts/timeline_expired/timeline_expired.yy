@@ -2,11 +2,11 @@
   "isDnD": false,
   "isCompatibility": false,
   "parent": {
-    "name": "Vector Functions",
-    "path": "folders/Scripts/GML Extended Scripts/Vector Functions.yy",
+    "name": "Timelines",
+    "path": "folders/Scripts/GML Extended Scripts/Timelines.yy",
   },
   "resourceVersion": "1.0",
-  "name": "Vector2",
+  "name": "timeline_expired",
   "tags": [],
   "resourceType": "GMScript",
 }

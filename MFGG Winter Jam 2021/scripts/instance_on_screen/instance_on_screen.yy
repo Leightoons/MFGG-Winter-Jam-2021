@@ -2,11 +2,11 @@
   "isDnD": false,
   "isCompatibility": false,
   "parent": {
-    "name": "Vector Functions",
-    "path": "folders/Scripts/GML Extended Scripts/Vector Functions.yy",
+    "name": "Windows and Views",
+    "path": "folders/Scripts/GML Extended Scripts/Windows and Views.yy",
   },
   "resourceVersion": "1.0",
-  "name": "Vector2",
+  "name": "instance_on_screen",
   "tags": [],
   "resourceType": "GMScript",
 }

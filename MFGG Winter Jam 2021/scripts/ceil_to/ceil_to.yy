@@ -2,11 +2,11 @@
   "isDnD": false,
   "isCompatibility": false,
   "parent": {
-    "name": "Vector Functions",
-    "path": "folders/Scripts/GML Extended Scripts/Vector Functions.yy",
+    "name": "Real Number Functions",
+    "path": "folders/Scripts/GML Extended Scripts/Real Number Functions.yy",
   },
   "resourceVersion": "1.0",
-  "name": "Vector2",
+  "name": "ceil_to",
   "tags": [],
   "resourceType": "GMScript",
 }

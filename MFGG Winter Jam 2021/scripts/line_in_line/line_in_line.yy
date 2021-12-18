@@ -2,11 +2,11 @@
   "isDnD": false,
   "isCompatibility": false,
   "parent": {
-    "name": "Vector Functions",
-    "path": "folders/Scripts/GML Extended Scripts/Vector Functions.yy",
+    "name": "Line",
+    "path": "folders/Scripts/GML Extended Scripts/Collision Checking/Without Masks/Line.yy",
   },
   "resourceVersion": "1.0",
-  "name": "Vector2",
+  "name": "line_in_line",
   "tags": [],
   "resourceType": "GMScript",
 }

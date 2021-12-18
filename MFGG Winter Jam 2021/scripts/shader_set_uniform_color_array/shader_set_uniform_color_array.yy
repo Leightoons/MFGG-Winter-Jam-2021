@@ -2,11 +2,11 @@
   "isDnD": false,
   "isCompatibility": false,
   "parent": {
-    "name": "Vector Functions",
-    "path": "folders/Scripts/GML Extended Scripts/Vector Functions.yy",
+    "name": "Shaders",
+    "path": "folders/Scripts/GML Extended Scripts/Shaders.yy",
   },
   "resourceVersion": "1.0",
-  "name": "Vector2",
+  "name": "shader_set_uniform_color_array",
   "tags": [],
   "resourceType": "GMScript",
 }
