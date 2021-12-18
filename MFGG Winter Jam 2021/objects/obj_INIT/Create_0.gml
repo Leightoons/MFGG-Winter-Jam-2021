@@ -7,21 +7,19 @@ event_inherited();
 globalvar	m_Game,
 			m_Display,
 			m_Input,
-			m_Audio;
+			m_Audio,
+			m_Debug;
 			
 // Create manager objects
-m_Game = instance_create_layer(0,0,layer, obj_Game);
-
-m_Display = instance_create_layer(0,0,layer, obj_Display);
-
-m_Input = instance_create_layer(0,0,layer, obj_Input);
-
-m_Audio = instance_create_layer(0,0,layer, obj_Audio);
-
-// Debug-only manager objects
-if (os_get_config() == "DEBUG"){
-	instance_create_layer(0,0,layer, obj_DebugBinds);
-}
+m_Game = InstantiateManager(obj_Game);
+//
+m_Display = InstantiateManager(obj_Display);
+//
+m_Input = InstantiateManager(obj_Input);
+//
+m_Audio = InstantiateManager(obj_Audio);
+//
+m_Debug = InstantiateManager(obj_Debug);
 
 // Continue to next room
 room_goto_next();
